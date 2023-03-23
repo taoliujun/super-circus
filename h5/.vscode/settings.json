@@ -1,0 +1,4 @@
+{
+    "typescript.preferences.importModuleSpecifier": "shortest",
+    "javascript.preferences.importModuleSpecifier": "shortest"
+}
